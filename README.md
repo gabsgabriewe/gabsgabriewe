@@ -1,7 +1,8 @@
 # Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-![Twitch](https://img.shields.io/badge/-twitch-%239146FF?style=flat&logo=twitch&logoColor=black&link=https//www.twitch.tv/gabsgabriewe
+[![Twitch](https://img.shields.io/badge/-twitch-%239146FF?style=flat&logo=twitch&logoColor=black&link=https//www.twitch.tv/gabsgabriewe
+)](https://img.shields.io/badge/-twitch-%239146FF?style=social&logo=twitch&logoColor=black&color=black&link=https%3A%2F%2Fwww.twitch.tv%2Fgabsgabriewe&link=https%3A%2F%2Fwww.twitch.tv%2Fgabsgabriewe
 )
 
 # Files
