@@ -13,7 +13,7 @@ Soy un artista Furry, y programador iniciante, mucho gusto :3
 [![Instagram](https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/gabsgabriewe/) 
 [![Facebook](https://img.shields.io/badge/-Facebook-%230866FF?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/gabsgabriewe1?locale=es_LA)
+)](https://www.facebook.com/gabsgabriewe1)
 
 ---
 
