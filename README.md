@@ -6,7 +6,7 @@ Soy un artista Furry, y programador iniciante, mucho gusto :3
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gabsgabriewe)
  [![Discord](https://img.shields.io/badge/-Discord%20(beta)-%235865F2?style=for-the-badge&logo=Discord&logoColor=white
-)](https://discord.gg/2Q4SMtCC)
+)](https://discordapp.com/users/448909414636716032)
  
  ---
  
